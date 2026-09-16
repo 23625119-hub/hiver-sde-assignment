@@ -2,96 +2,89 @@ import argparse
 import json
 from collections import Counter
 
+
 def f1_score(p, r):
     if p + r == 0:
-            return 0
-                return 2 * p * r / (p + r)
+        return 0
+    return 2 * p * r / (p + r)
 
-                def main():
-                    parser = argparse.ArgumentParser()
-                        parser.add_argument("--golden_set", default="golden_200.json")
-                            args = parser.parse_args()
 
-                                with open(args.golden_set, encoding="utf-8") as f:
-                                        golden = json.load(f)
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--golden_set", default="golden_200.json")
+    args = parser.parse_args()
 
-                                            with open("primary_eval.json", encoding="utf-8") as f:
-                                                    pred = json.load(f)
+    with open(args.golden_set, encoding="utf-8") as f:
+        golden = json.load(f)
 
-                                                        n = min(len(golden), len(pred))
+    with open("primary_eval.json", encoding="utf-8") as f:
+        pred = json.load(f)
 
-                                                            correct = 0
-                                                                actual = Counter()
-                                                                    predicted = Counter()
+    n = min(len(golden), len(pred))
 
-                                                                        for i in range(n):
-                                                                                actual[golden[i]["intent"]] += 1
-                                                                                        predicted[pred[i]["intent"]] += 1
+    correct = 0
+    actual = Counter()
+    predicted = Counter()
 
-                                                                                                if golden[i]["intent"] == pred[i]["intent"]:
-                                                                                                            correct += 1
+    for i in range(n):
+        actual[golden[i]["intent"]] += 1
+        predicted[pred[i]["intent"]] += 1
 
-                                                                                                                accuracy = correct / n if n else 0
+        if golden[i]["intent"] == pred[i]["intent"]:
+            correct += 1
 
-                                                                                                                    f1_values = []
+    accuracy = correct / n if n else 0
 
-                                                                                                                        for intent in actual:
-                                                                                                                                tp = sum(
-                                                                                                                                            1 for i in range(n)
-                                                                                                                                                        if golden[i]["intent"] == intent
-                                                                                                                                                                    and pred[i]["intent"] == intent
-                                                                                                                                                                            )
+    f1_values = []
 
-                                                                                                                                                                                    fp = sum(
-                                                                                                                                                                                                1 for i in range(n)
-                                                                                                                                                                                                            if golden[i]["intent"] != intent
-                                                                                                                                                                                                                        and pred[i]["intent"] == intent
-                                                                                                                                                                                                                                )
+    for intent in actual:
+        tp = sum(
+            1
+            for i in range(n)
+            if golden[i]["intent"] == intent and pred[i]["intent"] == intent
+        )
 
-                                                                                                                                                                                                                                        fn = sum(
-                                                                                                                                                                                                                                                    1 for i in range(n)
-                                                                                                                                                                                                                                                                if golden[i]["intent"] == intent
-                                                                                                                                                                                                                                                                            and pred[i]["intent"] != intent
-                                                                                                                                                                                                                                                                                    )
+        fp = sum(
+            1
+            for i in range(n)
+            if golden[i]["intent"] != intent and pred[i]["intent"] == intent
+        )
 
-                                                                                                                                                                                                                                                                                            precision = tp / (tp + fp) if tp + fp else 0
-                                                                                                                                                                                                                                                                                                    recall = tp / (tp + fn) if tp + fn else 0
+        fn = sum(
+            1
+            for i in range(n)
+            if golden[i]["intent"] == intent and pred[i]["intent"] != intent
+        )
 
-                                                                                                                                                                                                                                                                                                            f1_values.append(f1_score(precision, recall))
+        precision = tp / (tp + fp) if tp + fp else 0
+        recall = tp / (tp + fn) if tp + fn else 0
 
-                                                                                                                                                                                                                                                                                                                macro_f1 = sum(f1_values) / len(f1_values)
+        f1_values.append(f1_score(precision, recall))
 
-                                                                                                                                                                                                                                                                                                                    true_escalate = sum(
-                                                                                                                                                                                                                                                                                                                            1 for i in range(n) if golden[i]["should_escalate"]
-                                                                                                                                                                                                                                                                                                                                )
+    macro_f1 = sum(f1_values) / len(f1_values)
 
-                                                                                                                                                                                                                                                                                                                                    predicted_escalate = sum(
-                                                                                                                                                                                                                                                                                                                                            1 for i in range(n) if pred[i]["should_escalate"]
-                                                                                                                                                                                                                                                                                                                                                )
+    true_escalate = sum(1 for i in range(n) if golden[i]["should_escalate"])
+    predicted_escalate = sum(1 for i in range(n) if pred[i]["should_escalate"])
+    correct_escalate = sum(
+        1
+        for i in range(n)
+        if golden[i]["should_escalate"] and pred[i]["should_escalate"]
+    )
 
-                                                                                                                                                                                                                                                                                                                                                    correct_escalate = sum(
-                                                                                                                                                                                                                                                                                                                                                            1 for i in range(n)
-                                                                                                                                                                                                                                                                                                                                                                    if golden[i]["should_escalate"]
-                                                                                                                                                                                                                                                                                                                                                                            and pred[i]["should_escalate"]
-                                                                                                                                                                                                                                                                                                                                                                                )
+    escalation_precision = (
+        correct_escalate / predicted_escalate if predicted_escalate else 0
+    )
 
-                                                                                                                                                                                                                                                                                                                                                                                    escalation_precision = (
-                                                                                                                                                                                                                                                                                                                                                                                            correct_escalate / predicted_escalate
-                                                                                                                                                                                                                                                                                                                                                                                                    if predicted_escalate else 0
-                                                                                                                                                                                                                                                                                                                                                                                                        )
+    escalation_recall = correct_escalate / true_escalate if true_escalate else 0
 
-                                                                                                                                                                                                                                                                                                                                                                                                            escalation_recall = (
-                                                                                                                                                                                                                                                                                                                                                                                                                    correct_escalate / true_escalate
-                                                                                                                                                                                                                                                                                                                                                                                                                            if true_escalate else 0
-                                                                                                                                                                                                                                                                                                                                                                                                                                )
+    print("\nEvaluation Results")
+    print("==================")
+    print("Examples:", n)
+    print("Intent Accuracy:", round(accuracy, 3))
+    print("Macro F1:", round(macro_f1, 3))
+    print("Escalation Precision:", round(escalation_precision, 3))
+    print("Escalation Recall:", round(escalation_recall, 3))
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                    print("\nEvaluation Results")
-                                                                                                                                                                                                                                                                                                                                                                                                                                        print("==================")
-                                                                                                                                                                                                                                                                                                                                                                                                                                            print("Examples:", n)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                print("Intent Accuracy:", round(accuracy, 3))
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    print("Macro F1:", round(macro_f1, 3))
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        print("Escalation Precision:", round(escalation_precision, 3))
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            print("Escalation Recall:", round(escalation_recall, 3))
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            if __name__ == "__main__":
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                main()
+if __name__ == "__main__":
+    main()
