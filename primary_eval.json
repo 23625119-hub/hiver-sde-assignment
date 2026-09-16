@@ -1,0 +1,3852 @@
+[
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "reply": "Please check your account credentials and try signing in again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "reply": "We can help review the payment or billing issue.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My app is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "The app keeps crashing",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My iPhone has a problem",
+    "intent": "product_issue",
+    "reply": "Please share the product details so the issue can be investigated.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My product is not working",
+    "intent": "technical_issue",
+    "reply": "Please restart the device and try the affected feature again.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "Where is my order?",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "My delivery is late",
+    "intent": "delivery_order",
+    "reply": "Please share the order details so we can check the status.",
+    "should_escalate": false,
+    "reason": "Routine support request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  },
+  {
+    "text": "How can I contact support?",
+    "intent": "other",
+    "reply": "Please provide more details so our support team can assist you.",
+    "should_escalate": true,
+    "reason": "Unclear or unsupported request"
+  }
+]

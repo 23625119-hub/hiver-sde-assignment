@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "My password is not working",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "My password is not working",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I cannot login to my account",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "Why was I charged twice?",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "technical_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "product_issue",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "delivery_order",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "other",
+    "should_escalate": true
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "account_access",
+    "should_escalate": false
+  },
+  {
+    "text": "I need a refund for my payment",
+    "intent": "billing_payment",
+    "should_escalate": false
+  }
+]
