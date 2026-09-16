@@ -93,6 +93,8 @@ What is misleading about my headline number?
 
 A single accuracy number does not fully represent customer-support quality. Accuracy depends on the composition of the evaluation set and can hide failures on rare or ambiguous intents. Escalation quality and reply usefulness therefore need to be considered alongside intent accuracy.
 
+The reported 1.00 intent accuracy should not be interpreted as a real-world accuracy estimate. The current sample and evaluation labels were generated using deterministic rules for rapid reproducibility, so the evaluation is not equivalent to independent human annotation. A production-quality evaluation would require hand-labelled examples, double annotation, Cohen's kappa, and comparison against genuinely independent baselines.
+
 What I chose NOT to build
 
 I chose not to build a full production deployment, real-time Twitter integration, complex conversation memory, or a large-scale retrieval system. The assignment focuses on demonstrating a reproducible evaluation pipeline.
