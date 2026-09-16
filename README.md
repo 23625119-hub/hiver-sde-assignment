@@ -44,6 +44,19 @@ python evaluate.py --golden_set golden_200.json
 
 The evaluation reports intent accuracy and escalation precision/recall.
 
+LLM-as-Judge Evaluation
+
+Reply quality is evaluated using a four-criterion rubric:
+
+1. Relevance — Does the reply address the customer's issue?
+2. Helpfulness — Does it provide a useful next step?
+3. Grounding — Is the response consistent with the available support context?
+4. Escalation appropriateness — Does the response avoid confidently handling cases that require human review?
+
+Each criterion is scored from 1 to 5. The intended judge configuration uses temperature=0 for deterministic evaluation.
+
+A human agreement study should be performed on at least 50 examples and reported using Cohen's kappa. This is identified as a required future validation step for the current rapid prototype.
+
 Dataset
 
 A reproducible sample dataset is included in "data/sample_data.csv".
@@ -56,11 +69,29 @@ Golden Set
 
 The examples cover all defined intents and include an escalation label.
 
+
 Baselines
 
-Trivial baseline
+Baseline 1 — Trivial
 
-Predict "other" for every message.
+The trivial baseline predicts "other" for every incoming message. This establishes a minimum reference point.
+
+Baseline 2 — Keyword
+
+The simple baseline uses keyword matching to classify messages into the six defined intents.
+
+Primary System
+
+The current prototype uses deterministic keyword classification together with response templates and an escalation rule.
+
+Comparison
+
+System| Intent Accuracy| Macro F1| Escalation Precision| Escalation Recall
+Trivial| To be measured| To be measured| To be measured| To be measured
+Keyword baseline| 1.00*| 1.00*| 0.00| 0.00
+Primary system| 1.00*| 1.00*| 0.00| 0.00
+
+"*" The current evaluation labels were generated using the same deterministic rules as the prototype, so these numbers are not an independent estimate of real-world performance.
 
 Simple baseline
 
